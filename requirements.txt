@@ -52,8 +52,6 @@ patsy==0.5.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.0.0
-plotly==5.5.0
-plotly-express==0.4.1
 pluggy==0.13.1
 ply==3.11
 prometheus-client==0.12.0
